@@ -12,7 +12,11 @@ If you have any question, please give me an issue.
 If you are loving solving problems in leetcode, please contact me to enjoy it together!
 
 (Notes: 🔒 means you need to buy a book from Leetcode to unlock the problem)
-Order|Title|Source Code|Difficulty
---|:--:|--:|--:
-1|高度检查器|[JAVA](https://leetcode-cn.com/problems/height-checker/submissions/)|easy
+
+Order | Title | Source Code | Difficulty
+
+--|:------:|--:|--:
+
+1|[高度检查器](https://leetcode-cn.com/problems/height-checker/submissions/)|[JAVA](https://leetcode-cn.com/problems/height-checker/submissions/)|easy
+
 
