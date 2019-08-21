@@ -13,8 +13,9 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 
 (Notes: 🔒 means you need to buy a book from Leetcode to unlock the problem)
 
-|Order | Title | Source Code | Difficulty|
-|----|:------:|----:|----:
+|Order | Title | Source Code | Difficulty |
+|----|:------:|----:|-------:
 1|[高度检查器(HeightChecker)](https://leetcode-cn.com/problems/height-checker/submissions/)|[JAVA](https://leetcode-cn.com/problems/height-checker/submissions/)|easy
+2|[有序数组的平方(sortedSquares)](https://leetcode-cn.com/problems/squares-of-a-sorted-array/comments/)|[JAVA](https://leetcode-cn.com/problems/squares-of-a-sorted-array/comments/)|easy
 
 
