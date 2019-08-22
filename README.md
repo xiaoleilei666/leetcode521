@@ -27,5 +27,6 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 10|[交换工资(exchangeWages)](https://leetcode-cn.com/problems/height-checker/submissions/)|[JAVA](https://leetcode-cn.com/problems/height-checker/submissions/)|easy
 11|[删除最外层的括号(removeOuterParentheses)](https://leetcode-cn.com/problems/height-checker/submissions/)|[JAVA](https://leetcode-cn.com/problems/height-checker/submissions/)|easy
 12|[有序数组的平方(sortedSquares)](https://leetcode-cn.com/problems/squares-of-a-sorted-array/comments/)|[JAVA](https://leetcode-cn.com/problems/squares-of-a-sorted-array/comments/)|easy
-
+13|[有趣的电影(interestingMovie)](https://leetcode-cn.com/problems/squares-of-a-sorted-array/comments/)|[JAVA](https://leetcode-cn.com/problems/squares-of-a-sorted-array/comments/)|easy
+14|[汉明距离(hammingDistance)](https://leetcode-cn.com/problems/squares-of-a-sorted-array/comments/)|[JAVA](https://leetcode-cn.com/problems/squares-of-a-sorted-array/comments/)|easy
 
