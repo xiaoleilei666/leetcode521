@@ -1,9 +1,9 @@
 # Leetcode Solutions with Java
-Update time: 2019-08-20 17:34:00
+Update time: 2019-08-22 16:34:00
 
 Auto created by [Leetcode](https://leetcode-cn.com/problems)
 
-I have solved 12 / 1136 problems while there are 165 problems still locked.
+I have solved 14 / 1136 problems while there are 165 problems still locked.
 
 If you want to use this tool please follow this Usage Guide
 
