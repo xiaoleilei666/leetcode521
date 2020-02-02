@@ -29,4 +29,5 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 12|[有序数组的平方(sortedSquares)](https://leetcode-cn.com/problems/squares-of-a-sorted-array/comments/)|[JAVA](https://leetcode-cn.com/problems/squares-of-a-sorted-array/comments/)|easy
 13|[有趣的电影(interestingMovie)](https://leetcode-cn.com/problems/squares-of-a-sorted-array/comments/)|[JAVA](https://leetcode-cn.com/problems/squares-of-a-sorted-array/comments/)|easy
 14|[汉明距离(hammingDistance)](https://leetcode-cn.com/problems/squares-of-a-sorted-array/comments/)|[JAVA](https://leetcode-cn.com/problems/squares-of-a-sorted-array/comments/)|easy
+15|[方阵中战斗力最弱的 K 行(the-k-weakest-rows-in-a-matrix)](https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/)|[JAVA](https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/)|easy
 
